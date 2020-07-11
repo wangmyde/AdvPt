@@ -29,7 +29,7 @@ Output:
 ```
 5 has type d
 ```
-`typeid().name`:
+`typeid().name`: 用于获取该变量类型。
 
 1.2
 ```
